@@ -1,0 +1,20 @@
+{
+    "sentiment_result": {
+        "twitter": {
+            "bitcoin": [
+                {
+                    "date": "202257",
+                    "keywords": [
+                        "price",
+                        "price",
+                        "price",
+                        "n .",
+                        "n.co"
+                    ],
+                    "score": 5.238808369791579,
+                    "sentiment": "Positive"
+                }
+            ]
+        }
+    }
+}
